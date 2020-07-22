@@ -1,0 +1,2 @@
+ln -s /home/odoo/server/11/clientes/creafelicidad/supervisor/prod_creafelicidad11.conf /etc/supervisor/conf.d/prod_creafelicidad11.conf
+ln -s /home/odoo/server/11/clientes/creafelicidad/supervisor/test_creafelicidad11.conf /etc/supervisor/conf.d/test_creafelicidad11.conf

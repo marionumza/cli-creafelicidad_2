@@ -1,0 +1,12 @@
+11.0.0.3:-
+operating unit is updating wrong in the journal entry after validating the session.
+operating unit not pass in journal entries
+
+11.0.0.4
+ operating unit not updating in stock journal entry..
+
+11.0.0.5
+Update process_reconciliation method...
+
+11.0.0.6
+pycompat inheritence added
