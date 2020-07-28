@@ -2,8 +2,8 @@
 # Part of BrowseInfo. See LICENSE file for full copyright and licensing details.
 
 {
-    "name" : "POS Operating Unit",
-    "version" : "11.0.0.6",
+    "name" : "POS Operating Unit in Odoo",
+    "version" : "12.0.0.0",
     "category" : "Point of Sale",
     "depends" : ['base','sale','point_of_sale','operating_unit'], #,'account_operating_unit'
     "author": "BrowseInfo",
@@ -25,7 +25,7 @@
     
     """,
     "website" : "www.browseinfo.in",
-    "price": 39,
+    "price": 29,
     "currency": "EUR",
     "data": [
         'views/custom_pos_view.xml',
@@ -35,7 +35,6 @@
     ],
     "auto_install": False,
     "installable": True,
-    'live_test_url': "https://youtu.be/aoQnN3d52xc",
     "images":['static/description/Banner.png'],
 }
 # vim:expandtab:smartindent:tabstop=4:softtabstop=4:shiftwidth=4:
