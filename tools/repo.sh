@@ -81,5 +81,5 @@ cd ~/server/12
 ./maintainer-quality-tools/travis/clone_oca_dependencies sources/ .
 rm ~/server/12/odoo.conf
 odoo/odoo-bin -c odoo.conf -s --stop-after-init --db_host=localhost --db_user=odoo --db_password=odoo
-find ~/server/12/sources -mindepth 1 -maxdepth 1 -type d | sort | tr '\n' ','
 echo ***** COPIA ESTE PATH EN TU ARCHIVO CONF *******
+find ~/server/12/sources -mindepth 1 -maxdepth 1 -type d | sort | tr '\n' ','
