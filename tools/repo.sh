@@ -1,3 +1,4 @@
+mkdir ~/server/12/sources
 cd ~/server/12/sources
 #REPOSITORIOS ADHOC
 git clone --depth 1 --branch 12.0 --single-branch https://github.com/ingadhoc/account-analytic.git ingadhoc-account-analytic
