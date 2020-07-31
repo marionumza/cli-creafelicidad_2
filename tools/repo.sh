@@ -27,6 +27,7 @@ git clone --depth 1 --branch 12.0 --single-branch https://github.com/OCA/account
 git clone --depth 1 --branch 12.0 --single-branch https://github.com/OCA/account-financial-reporting.git OCA-account-financial-reporting
 git clone --depth 1 --branch 12.0 --single-branch https://github.com/OCA/account-financial-tools.git OCA-account-financial-tools
 git clone --depth 1 --branch 12.0 --single-branch https://github.com/OCA/account-payment.git OCA-account-payment
+git clone --depth 1 --branch 12.0 --single-branch https://github.com/OCA/account-invoicing.git OCA-account-invoicing
 git clone --depth 1 --branch 12.0 --single-branch https://github.com/OCA/bank-payment.git OCA-bank-payment
 git clone --depth 1 --branch 12.0 --single-branch https://github.com/OCA/currency.git OCA-currency
 git clone --depth 1 --branch 12.0 --single-branch https://github.com/OCA/delivery-carrier.git OCA-delivery-carrier
