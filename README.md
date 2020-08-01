@@ -1,5 +1,18 @@
 # PROYECTO - CREAFELICIDAD
 ## REQUERIMIENTOS COMERCIALES
+### REQU. DEL SISTEMA [2/2]
+* Se deben poder crear multiples compañias en la misma base de datos
+* Se deben poder crear multiples sucursales o unidades operativas dentro de la misma compañia
+### REQU. DE MODULOS DEL SISTEMA [RESUELTO 8/8]
+* Combas (Base)
+* Ventas (Base)
+* Contabilidad (Base)
+* Inventario (Base)
+* Terminal de Punto de Venta o POS
+* Knowledge
+* RRHH
+* Whatsapp
+
 ### REQU. ESTRUCTURA EMPRESARIAL DEL SISTEMA [RESUELTO 3/3]
 * La estructura de las compañias deben tener el siguiente sistema de estructura [OK]
  * Holding
