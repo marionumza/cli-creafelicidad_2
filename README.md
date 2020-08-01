@@ -1,16 +1,18 @@
 # PROYECTO - CREAFELICIDAD
 ## REQUERIMIENTOS COMERCIALES
-### REQU. ESTRUCTURA EMPRESARIAL DEL SISTEMA
-### Compañias
-[]* Holding
-  * Empresa 1
-    * UO 1 (POS)
-    * UO 2 (POS)
-  * Empresa 2
-    * UO 1 (POS)
-    * UO 2 (POS)
-    * UO 3 (POS)
-    * UO 4 (VENTAS)
+### REQU. ESTRUCTURA EMPRESARIAL DEL SISTEMA [RESUELTO]
+* La estructura de las compañias deben tener el siguiente sistema de estructura [OK]
+ * Holding [OK]
+   * Empresa 1
+     * UO 1 (POS)
+     * UO 2 (POS)
+   * Empresa 2
+     * UO 1 (POS)
+     * UO 2 (POS)
+     * UO 3 (POS)
+     * UO 4 (VENTAS)
+* Las compañias hijas deben tener configurada la contabilidad anglosajona [OK]
+* Debe ser escalable para desactivar o crear nuevas compañias o unidades operativas
 ### REQU. PUNTO DE VENTA (POS)
 * Se debe poder crear combos dinamicos con los productos
   * Las conbinaciones de combos se deben poder realizar desde el POS de forma dinámica
