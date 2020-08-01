@@ -2,7 +2,7 @@
 ## REQUERIMIENTOS COMERCIALES
 ### REQU. ESTRUCTURA EMPRESARIAL DEL SISTEMA
 ### Compañias
-[] * Holding
+[]* Holding
   * Empresa 1
     * UO 1 (POS)
     * UO 2 (POS)
