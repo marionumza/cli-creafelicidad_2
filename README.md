@@ -4,7 +4,7 @@
 * Se deben poder crear multiples compañias en la misma base de datos
 * Se deben poder crear multiples sucursales o unidades operativas dentro de la misma compañia
 ### REQU. DE MODULOS DEL SISTEMA [RESUELTO 8/8]
-* Combas (Base)
+* Compras (Base)
 * Ventas (Base)
 * Contabilidad (Base)
 * Inventario (Base)
